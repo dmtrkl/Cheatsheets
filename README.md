@@ -2,7 +2,7 @@
 Collection of useful cheatsheets for data science
 
 ## Advice for Data Scientist
-(с) JT Kostman, PhD Applied Artificial Intelligence
+### (с) JT Kostman, PhD Applied Artificial Intelligence
 
 1. Yeah, yeah, we know you’re smart. We’re all smart. Now get to work.
 2. It’s not the size of your data. It’s what you do with it that counts.
