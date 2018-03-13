@@ -1,5 +1,4 @@
 # Cheatsheets
-Collection of useful cheatsheets for data science
 
 ## Advice for Data Scientist
 ### JT Kostman, PhD Applied Artificial Intelligence (c)
